@@ -1,6 +1,6 @@
 <?php 
 
-    function validate($firstname= null){
+    function validate($str = null){
         return isValidPassword($str) && isEmpty($str) && checkSize($str) ? true : false;
     }
 

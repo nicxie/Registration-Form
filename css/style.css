@@ -1,3 +1,12 @@
 .container{
-    width: 500px !important;
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    text-align: center;
+     
 }
+
+.signin {
+    background-color: #f1f1f1;
+    text-align: center;
+  }
